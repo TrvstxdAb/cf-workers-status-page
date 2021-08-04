@@ -1,7 +1,7 @@
 settings:
   title: 'Bloxified Status'
   url: 'https://status.bloxified.gq' # used for Slack messages
-  logo: logo-192x192.png # image in ./public/ folder
+  logo: 333EFC61-E992-40C7-A01D-08C67A0EE017.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
